@@ -1,4 +1,4 @@
 # Simpel-HTML-project
 
-URL :  https://roadmap.sh/projects/single-page-cv
-URL :  https://roadmap.sh/projects/basic-html-website
+Task 1 :  https://roadmap.sh/projects/single-page-cv
+Task 2 :  https://roadmap.sh/projects/basic-html-website
