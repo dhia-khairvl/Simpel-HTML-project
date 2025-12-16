@@ -1,6 +1,6 @@
-Roadmap Project -Frontend Developer-
+Roadmap Project Frontend Developer
 
-List project :
+List project 
 
 01.[https://github.com/dhia-khairvl/Simpel-HTML-project](https://roadmap.sh/projects/single-page-cv)
 
