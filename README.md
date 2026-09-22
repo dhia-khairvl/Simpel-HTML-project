@@ -1,15 +1,2 @@
-Roadmap Project Frontend Developer
-
-List project 
-
-01.[https://github.com/dhia-khairvl/Simpel-HTML-project](https://roadmap.sh/projects/single-page-cv)
-
-02.[https://roadmap.sh/projects/basic-html-website](https://roadmap.sh/projects/basic-html-website)
-
-03.https://roadmap.sh/projects/portfolio-website
-
-04.https://roadmap.sh/projects/changelog-component
-
-05.https://roadmap.sh/projects/testimonial-cards
-
-06.https://roadmap.sh/projects/datepicker-ui
+# 06.Datepicker-UI
+Frontend project task 6
