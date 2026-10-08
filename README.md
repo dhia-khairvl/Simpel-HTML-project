@@ -1,7 +1,5 @@
 https://roadmap.sh/frontend/projects
 
-
-
 01- Single page VC
 https://roadmap.sh/projects/single-page-cv
 
